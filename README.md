@@ -1,4 +1,6 @@
-### Hi there 👋
+Physics and data scientist. I am studying a PhD at Cadiz University, researching the many applications of Machine Learning in industry. I am currently enrolled in some projects of Data Science. I encourage you to check them in my Projects section, at the bottom of my profile.
+
+I am opened to new opportunities for collaboration and research on Machine Learning!
 
 <!--
 **daniprec/daniprec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
