@@ -1,6 +1,4 @@
-Physics and data scientist. I am studying a PhD at Cadiz University, researching the many applications of Machine Learning in industry. I am currently enrolled in some projects of Data Science.
-
-I am opened to new opportunities for collaboration and research on Machine Learning!
+Welcome to my Github profile! I am Daniel Precioso, a data scientist and predoctoral researcher at [UCA](https://www.uca.es/). My current research focuses on the many applications of Machine Learning in industry. This covers many fields, such as time series, optimization and computer vision. I encourage you to visit my [personal website](https://daniprec.github.io/) to know about the projects I am enrolled in! My PhD is done under the supervision of [David Gómez-Ullate](http://datalab.uca.es/team/david/). Previously, I did a degree in Physics at [UCM](https://www.ucm.es/) and a MSc in Data Science at [UPM](https://www.upm.es/).
 
 <!--
 **daniprec/daniprec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
