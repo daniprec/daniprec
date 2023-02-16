@@ -3,8 +3,14 @@
     <a href="https://www.linkedin.com/in/daniel-precioso-garcelan">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/dani_precioso">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://scholar.google.com/citations?user=vr6z5FwAAAAJ&hl=en">
+      <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" alt="Google Scholar Badge"/>
+    </a>
+    <a href="https://www.researchgate.net/profile/Daniel-Precioso-Garcelan">
+      <img src="https://img.shields.io/badge/Research-Gate-9cf" alt="Research Gate Badge"/>
+    </a>
+    <a href="https://daniprec.github.io/">
+      <img src="https://img.shields.io/badge/My-Website-red" alt="Website Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=daniprec&style=flat-square&color=blue" alt=""/>
