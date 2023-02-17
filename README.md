@@ -44,10 +44,12 @@ Welcome to my Github profile! I am Daniel Precioso, a data scientist and predoct
 
 ### :writing_hand: Publications :
 
-&nbsp;&nbsp;&nbsp;&nbsp; :baby_bottle: [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://www.researchgate.net/publication/367966326_NeoCam_An_edge-cloud_platform_for_non-invasive_real-time_monitoring_in_neonatal_intensive_care_units)
+&nbsp;&nbsp;&nbsp; :fish: &nbsp; [How do tuna schools associate to dFADs? A study using echo-sounder buoys to identify global patterns](https://doi.org/10.48550/arXiv.2207.07049)
 
-&nbsp;&nbsp;&nbsp;&nbsp; :fish: [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://www.sciencedirect.com/science/article/abs/pii/S0165783622000406)
+&nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://www.researchgate.net/publication/367966326_NeoCam_An_edge-cloud_platform_for_non-invasive_real-time_monitoring_in_neonatal_intensive_care_units)
 
-&nbsp;&nbsp;&nbsp;&nbsp; :mask: [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://assets.researchsquare.com/files/rs-1732801/v1/dd939b55-5272-47a1-8052-0be11ee4120b.pdf?c=1654624936)
+&nbsp;&nbsp;&nbsp; :fish: &nbsp; [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://www.sciencedirect.com/science/article/abs/pii/S0165783622000406)
 
-&nbsp;&nbsp;&nbsp;&nbsp; :electric_plug: [NILM as a regression versus classification problem: the importance of thresholding](https://arxiv.org/abs/2010.16050)
+&nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://assets.researchsquare.com/files/rs-1732801/v1/dd939b55-5272-47a1-8052-0be11ee4120b.pdf?c=1654624936)
+
+&nbsp;&nbsp;&nbsp; :electric_plug: &nbsp; [NILM as a regression versus classification problem: the importance of thresholding](https://arxiv.org/abs/2010.16050)
