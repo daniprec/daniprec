@@ -65,3 +65,12 @@ Welcome to my Github profile! I am Daniel Precioso, a data scientist and predoct
 &nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://assets.researchsquare.com/files/rs-1732801/v1/dd939b55-5272-47a1-8052-0be11ee4120b.pdf?c=1654624936)
 
 &nbsp;&nbsp;&nbsp; :electric_plug: &nbsp; [NILM as a regression versus classification problem: the importance of thresholding](https://arxiv.org/abs/2010.16050)
+
+
+---
+
+### :trophy: Awards :
+
+&nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**
+
+&nbsp;&nbsp;&nbsp; :ocean: &nbsp; [Ocean Hackathon 2021](https://www.youtube.com/watch?v=nzPbj88IV0c&t=5300s), 2nd place as member of the project **Smart Shipping**
