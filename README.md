@@ -1,19 +1,31 @@
 <div id="header" align="center">
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <!-- Picture -->
+  <img src="https://github.com/daniprec/daniprec/blob/main/ocean-hackathon-sanfe.jpg" width="600"/>
+  <!-- Badges -->
   <div id="badges">
+    <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/daniel-precioso-garcelan">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <!-- Google Scholar -->
     <a href="https://scholar.google.com/citations?user=vr6z5FwAAAAJ&hl=en">
       <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" alt="Google Scholar Badge"/>
     </a>
+    <!-- Research Gate -->
     <a href="https://www.researchgate.net/profile/Daniel-Precioso-Garcelan">
       <img src="https://img.shields.io/badge/Research-Gate-9cf" alt="Research Gate Badge"/>
     </a>
+    <!-- Personal website -->
     <a href="https://daniprec.github.io/">
       <img src="https://img.shields.io/badge/My-Website-red" alt="Website Badge"/>
     </a>
+    <!-- Profile views -->
+    <img src="https://komarev.com/ghpvc/?username=daniprec&style=flat-square&color=blue" alt=""/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=daniprec&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
