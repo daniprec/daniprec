@@ -32,7 +32,13 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my Github profile! I am Daniel Precioso, a data scientist and predoctoral researcher at [UCA](https://www.uca.es/). My current research focuses on the many applications of Machine Learning in industry. This covers many fields, such as time series, optimization and computer vision. I encourage you to visit my [personal website](https://daniprec.github.io/) to know about the projects I am enrolled in! My PhD is done under the supervision of [David Gómez-Ullate](http://datalab.uca.es/team/david/). Previously, I did a degree in Physics at [UCM](https://www.ucm.es/) and a MSc in Data Science at [UPM](https://www.upm.es/).
+Hello! I am Daniel Precioso, a highly experienced and passionate Ph.D. data scientist. My current research revolves around utilizing data science to achieve sustainable development goals and promote ecological transitions. With a degree in Physics, I bring a unique perspective to my work that enables me to develop innovative solutions to complex problems.
+
+Throughout my career, I have gained extensive experience in analyzing and interpreting data, implementing machine learning algorithms, and creating models that help organizations optimize their operations and make informed decisions. My research also involves developing methodologies and frameworks that enable organizations to leverage data science to achieve their sustainability goals.
+
+As a data scientist, I am passionate about using my skills and expertise to make a positive impact on society. I believe that data science has the potential to transform the world for the better, and I am dedicated to exploring new ways to leverage this technology for the greater good.
+
+Thank you for taking the time to read my profile. I encourage you to visit my [personal website](https://daniprec.github.io/) to know about the projects I am enrolled in!
 
 ---
 
