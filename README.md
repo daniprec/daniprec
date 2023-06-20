@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <!-- Picture -->
-  <img src="https://github.com/daniprec/daniprec/blob/main/ocean-hackathon-sanfe.jpg" width="600"/>
+  <img src="https://github.com/daniprec/daniprec.github.io/blob/main/images/230607_pitch.png" width="600"/>
   <!-- Badges -->
   <div id="badges">
     <!-- Linkedin -->
