@@ -63,15 +63,15 @@ I encourage you to visit my [personal website](https://daniprec.github.io/) to k
 
 ### :writing_hand: Publications :
 
-&nbsp;&nbsp;&nbsp; :fish: &nbsp; [How do tuna schools associate to dFADs? A study using echo-sounder buoys to identify global patterns](https://doi.org/10.48550/arXiv.2207.07049)
+&nbsp;&nbsp;&nbsp; :fish: &nbsp; [How do tuna schools associate to dFADs? A study using echo-sounder buoys to identify global patterns](https://doi.org/10.3354/meps14338) (Q2)
 
-&nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://doi.org/10.1109/JBHI.2023.3240245)
+&nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://doi.org/10.1109/JBHI.2023.3240245) (Q1)
 
-&nbsp;&nbsp;&nbsp; :fish: &nbsp; [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://doi.org/10.1016/j.fishres.2022.106263)
+&nbsp;&nbsp;&nbsp; :fish: &nbsp; [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://doi.org/10.1016/j.fishres.2022.106263) (Q1)
 
-&nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://doi.org/10.21203/rs.3.rs-1732801/v1)
+&nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://doi.org/10.21203/rs.3.rs-1732801/v1) (Q1)
 
-&nbsp;&nbsp;&nbsp; :electric_plug: &nbsp; [Thresholding Methods in Non-Intrusive Load Monitoring](https://doi.org/10.21203/rs.3.rs-1923023/v1)
+&nbsp;&nbsp;&nbsp; :electric_plug: &nbsp; [Thresholding Methods in Non-Intrusive Load Monitoring](https://doi.org/10.21203/rs.3.rs-1923023/v1) (Q2)
 
 
 ---
