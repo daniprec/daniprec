@@ -63,6 +63,8 @@ I encourage you to visit my [personal website](https://daniprec.github.io/) to k
 
 ### :writing_hand: Publications :
 
+&nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem]([https://doi.org/10.3354/meps14338](https://doi.org/10.48550/arXiv.2308.02434)) (Under revision)
+
 &nbsp;&nbsp;&nbsp; :fish: &nbsp; [How do tuna schools associate to dFADs? A study using echo-sounder buoys to identify global patterns](https://doi.org/10.3354/meps14338) (Q1)
 
 &nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://doi.org/10.1109/JBHI.2023.3240245) (Q1)
