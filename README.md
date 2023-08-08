@@ -80,6 +80,8 @@ I encourage you to visit my [personal website](https://daniprec.github.io/) to k
 
 ### :trophy: Awards :
 
-&nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**
+&nbsp;&nbsp;&nbsp; :eu: &nbsp; [The Arch 2022](https://youtu.be/T2VRDSczxVM), my solution [**Green Navigation**](https://greenavigation.com/) was chosen as the 2nd best to impulse the ecological transition of the European Union.
 
-&nbsp;&nbsp;&nbsp; :ocean: &nbsp; [Ocean Hackathon 2021](https://www.youtube.com/watch?v=nzPbj88IV0c&t=5300s), 2nd place as member of the project **Smart Shipping**
+&nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**.
+
+&nbsp;&nbsp;&nbsp; :ocean: &nbsp; [Ocean Hackathon 2021](https://www.youtube.com/watch?v=nzPbj88IV0c&t=5300s), 2nd place as member of the project **Smart Shipping**.
