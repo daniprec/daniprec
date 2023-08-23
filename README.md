@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <!-- Picture -->
-  <img src="https://github.com/daniprec/daniprec.github.io/blob/main/images/230607_pitch.png" width="600"/>
+  <a href="https://youtu.be/T2VRDSczxVM"><img src="https://github.com/daniprec/daniprec.github.io/blob/main/images/230607_pitch.png" width="600"/></a>
   <!-- Badges -->
   <div id="badges">
     <!-- Linkedin -->
@@ -79,7 +79,7 @@ I encourage you to visit my [personal website](https://daniprec.github.io/) to k
 
 ### :trophy: Awards :
 
-&nbsp;&nbsp;&nbsp; :eu: &nbsp; [The Arch 2022](https://youtu.be/T2VRDSczxVM), my solution [**Green Navigation**](https://greenavigation.com/) was chosen as the 2nd best to impulse the ecological transition of the European Union.
+&nbsp;&nbsp;&nbsp; :eu: &nbsp; [The Arch 2022](https://youtu.be/T2VRDSczxVM), my solution [**Green Navigation**](https://greenavigation.com/) was chosen as the 2nd best to impulse the ecological transition of the European Union. This gave us the chance to [pitch at the European Parliament](https://youtu.be/T2VRDSczxVM)!
 
 &nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**.
 
