@@ -39,7 +39,7 @@ Throughout my over 4 years of career on industry, I have gained extensive experi
 As a data scientist, I am passionate about using my skills and expertise to make a positive impact on society. I believe that data science has the potential to transform the world for the better, and I am dedicated to exploring new ways to leverage this technology for the greater good.
 
 Thank you for taking the time to read my profile 😄
-I encourage you to visit my [personal website](https://daniprec.github.io/) to know about the projects I am enrolled in!
+I encourage you to visit my [personal website](https://danielprecioso.com/) to know about the projects I am enrolled in!
 
 ---
 
