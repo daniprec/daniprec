@@ -73,16 +73,16 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 
 ### :writing_hand: Publications :
 
-&nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem](https://doi.org/10.48550/arXiv.2308.02434) (Under revision)
+&nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem](https://doi.org/10.48550/arXiv.2308.02434). Under revision.
 
-&nbsp;&nbsp;&nbsp; :book: &nbsp;  [Applications of Machine Learning and Data Science to the Blue Economy: Sustainable Fishing and Weather Routing](https://rodin.uca.es/handle/10498/29451). PhD thesis at Universidad de Cádiz, 2023.
+&nbsp;&nbsp;&nbsp; :book: &nbsp;  [Applications of Machine Learning and Data Science to the Blue Economy: Sustainable Fishing and Weather Routing](https://rodin.uca.es/handle/10498/29451). PhD thesis at Universidad de Cádiz, 2023 (Cum Laude).
 
 &nbsp;&nbsp;&nbsp; :fish: &nbsp; [Aggregation dynamics of tropical tunas around drifting floating objects based on large-scale echo-sounder data](https://doi.org/10.3354/meps14338). Marine Ecology Progress Series, 2023 (Q1)
 
-&nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://doi.org/10.3389/fpubh.2023.1061331). Frontiers in Public Health, 2023 (Q1)
+&nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://doi.org/10.3389/fpubh.2023.1061331). Frontiers in Public Health, 2023 (Q1).
 
-&nbsp;&nbsp;&nbsp; :electric_plug: &nbsp; [Thresholding Methods in Non-Intrusive Load Monitoring](https://doi.org/10.1007/s11227-023-05149-8). The Journal of Supercomputing, 2023 (Q2)
+&nbsp;&nbsp;&nbsp; :electric_plug: &nbsp; [Thresholding Methods in Non-Intrusive Load Monitoring](https://doi.org/10.1007/s11227-023-05149-8). The Journal of Supercomputing, 2023 (Q2).
 
-&nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://doi.org/10.1109/JBHI.2023.3240245). IEEE Journal of Biomedical and Health Informatics, 2023 (Q1)
+&nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://doi.org/10.1109/JBHI.2023.3240245). IEEE Journal of Biomedical and Health Informatics, 2023 (Q1).
 
-&nbsp;&nbsp;&nbsp; :fish: &nbsp; [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://doi.org/10.1016/j.fishres.2022.106263). Fisheries Research, 2022 (Q2)
+&nbsp;&nbsp;&nbsp; :fish: &nbsp; [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://doi.org/10.1016/j.fishres.2022.106263). Fisheries Research, 2022 (Q2).
