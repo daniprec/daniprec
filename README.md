@@ -75,6 +75,8 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 
 &nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem](https://doi.org/10.48550/arXiv.2308.02434) (Under revision)
 
+&nbsp;&nbsp;&nbsp; :book: &nbsp;  [Applications of Machine Learning and Data Science to the Blue Economy: Sustainable Fishing and Weather Routing](https://rodin.uca.es/handle/10498/29451). PhD thesis at Universidad de Cádiz, 2023.
+
 &nbsp;&nbsp;&nbsp; :fish: &nbsp; [Aggregation dynamics of tropical tunas around drifting floating objects based on large-scale echo-sounder data](https://doi.org/10.3354/meps14338). Marine Ecology Progress Series, 2023 (Q1)
 
 &nbsp;&nbsp;&nbsp; :mask: &nbsp; [Effectiveness of non-pharmaceutical interventions in nine fields of activity to decrease SARS-CoV-2 transmission (Spain, September 2020-May 2021)](https://doi.org/10.3389/fpubh.2023.1061331). Frontiers in Public Health, 2023 (Q1)
