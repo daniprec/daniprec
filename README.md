@@ -34,7 +34,7 @@
 
 Hello! I am Daniel Precioso, a highly experienced and passionate Ph.D. data scientist. My current research revolves around utilizing data science to achieve sustainable development goals and promote ecological transitions. With a degree in Physics, I bring a unique perspective to my work that enables me to develop innovative solutions to complex problems.
 
-Throughout my over 4 years of career on industry, I have gained extensive experience in analyzing and interpreting data, implementing machine learning algorithms, and creating models that help organizations optimize their operations and make informed decisions.
+Throughout my over 5 years of career on industry, I have gained extensive experience in analyzing and interpreting data, implementing machine learning algorithms, and creating models that help organizations optimize their operations and make informed decisions.
 
 As a data scientist, I am passionate about using my skills and expertise to make a positive impact on society. I believe that data science has the potential to transform the world for the better, and I am dedicated to exploring new ways to leverage this technology for the greater good.
 
@@ -61,6 +61,16 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 
 ---
 
+### :trophy: Awards :
+
+&nbsp;&nbsp;&nbsp; :eu: &nbsp; [The Arch 2022](https://youtu.be/T2VRDSczxVM), my solution [**Green Navigation**](https://greenavigation.com/) was chosen as the 2nd best to impulse the ecological transition of the European Union. This gave us the chance to [pitch at the European Parliament](https://youtu.be/T2VRDSczxVM)!
+
+&nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**.
+
+&nbsp;&nbsp;&nbsp; :ocean: &nbsp; [Ocean Hackathon 2021](https://www.youtube.com/watch?v=nzPbj88IV0c&t=5300s), 2nd place as member of the project **Smart Shipping**.
+
+---
+
 ### :writing_hand: Publications :
 
 &nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem](https://doi.org/10.48550/arXiv.2308.02434) (Under revision)
@@ -74,13 +84,3 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 &nbsp;&nbsp;&nbsp; :baby_bottle: &nbsp; [NeoCam: An edge-cloud platform for non-invasive real-time monitoring in neonatal intensive care units](https://doi.org/10.1109/JBHI.2023.3240245). IEEE Journal of Biomedical and Health Informatics, 2023 (Q1)
 
 &nbsp;&nbsp;&nbsp; :fish: &nbsp; [TUN-AI: Tuna biomass estimation with Machine Learning models trained on oceanography and echosounder FAD data](https://doi.org/10.1016/j.fishres.2022.106263). Fisheries Research, 2022 (Q2)
-
----
-
-### :trophy: Awards :
-
-&nbsp;&nbsp;&nbsp; :eu: &nbsp; [The Arch 2022](https://youtu.be/T2VRDSczxVM), my solution [**Green Navigation**](https://greenavigation.com/) was chosen as the 2nd best to impulse the ecological transition of the European Union. This gave us the chance to [pitch at the European Parliament](https://youtu.be/T2VRDSczxVM)!
-
-&nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**.
-
-&nbsp;&nbsp;&nbsp; :ocean: &nbsp; [Ocean Hackathon 2021](https://www.youtube.com/watch?v=nzPbj88IV0c&t=5300s), 2nd place as member of the project **Smart Shipping**.
