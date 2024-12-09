@@ -73,6 +73,8 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 
 ### :writing_hand: Publications :
 
+&nbsp;&nbsp;&nbsp; :ship: &nbsp; [HADAD: Hexagonal A-Star with Differential Algorithm Designed for weather routing](). Ocean Engineering, 2024 (Q1).
+
 &nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem](https://doi.org/10.1007/s40314-024-02756-w). Computational and Applied Mathematics, 2024 (Q2).
 
 &nbsp;&nbsp;&nbsp; :book: &nbsp;  [Applications of Machine Learning and Data Science to the Blue Economy: Sustainable Fishing and Weather Routing](https://rodin.uca.es/handle/10498/29451). PhD thesis at Universidad de Cádiz, 2023 (Cum Laude).
