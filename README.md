@@ -63,6 +63,8 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 
 ### :trophy: Awards :
 
+&nbsp;&nbsp;&nbsp; :world_map: &nbsp; [Prototypes for Humanity 2024](https://www.prototypesforhumanity.com/), my project [**Green Navigation**](https://greenavigation.com/) was selected among the 100 the innovative solutions with the power to achieve a better future, out of 2000 submitted projects.
+
 &nbsp;&nbsp;&nbsp; :eu: &nbsp; [The Arch 2022](https://youtu.be/T2VRDSczxVM), my solution [**Green Navigation**](https://greenavigation.com/) was chosen as the 2nd best to impulse the ecological transition of the European Union. This gave us the chance to [pitch at the European Parliament](https://youtu.be/T2VRDSczxVM)!
 
 &nbsp;&nbsp;&nbsp; :eye: &nbsp; [OpenCV AI Competition 2021](https://opencv.org/opencv-ai-competition-2021/), 2nd place as member of the team **Caleta**.
