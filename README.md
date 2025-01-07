@@ -75,7 +75,7 @@ I encourage you to visit my [personal website](https://danielprecioso.com/) to k
 
 ### :writing_hand: Publications :
 
-&nbsp;&nbsp;&nbsp; :ship: &nbsp; [HADAD: Hexagonal A-Star with Differential Algorithm Designed for weather routing](). Ocean Engineering, 2024 (Q1).
+&nbsp;&nbsp;&nbsp; :ship: &nbsp; [HADAD: Hexagonal A-Star with Differential Algorithm Designed for weather routing](https://doi.org/10.1016/j.oceaneng.2024.120050). Ocean Engineering, Elsevier, 2025 (Q1).
 
 &nbsp;&nbsp;&nbsp; :ship: &nbsp; [Hybrid Search method for Zermelo's navigation problem](https://doi.org/10.1007/s40314-024-02756-w). Computational and Applied Mathematics, 2024 (Q2).
 
