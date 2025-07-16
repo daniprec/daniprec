@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <!-- Picture -->
-  <a href="https://youtu.be/T2VRDSczxVM"><img src="https://github.com/daniprec/daniprec.github.io/blob/main/images/230607_pitch.png" width="600"/></a>
+  <a href="https://youtu.be/T2VRDSczxVM"><img src="https://github.com/daniprec/daniprec.github.io/blob/main/images/2023-06-07-pitch.png" width="600"/></a>
   <!-- Badges -->
   <div id="badges">
     <!-- Linkedin -->
